@@ -75,6 +75,7 @@ The tests are grouped into the following categories:
 ```bash
 git clone https://github.com/<your-organization>/ukrainian-cities-api-tests.git
 cd ukrainian-cities-api-tests
+```
 
 ### 2. Import files:
    - Collection (`.json` file).
